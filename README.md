@@ -51,6 +51,7 @@ Unique features:
 <img width="286" height="482" alt="Image" src="https://github.com/user-attachments/assets/54cd85f9-9b27-464e-8625-45012270cbed" />
 <img width="286" height="482" alt="Image" src="https://github.com/user-attachments/assets/6bbd10f0-3724-40c4-8bc3-0fa1a474018e" />
 <img width="286" height="482" alt="Image" src="https://github.com/user-attachments/assets/c1a342e4-6c46-488b-b8cd-80bdc830f961" />
+<img width="286" height="482" alt="Image" src="https://github.com/user-attachments/assets/2498b454-b5f9-4bcd-a2e0-874dfa516292" />
 
 # 🚨 ALERT FOR EMPTY SEARCH
 
