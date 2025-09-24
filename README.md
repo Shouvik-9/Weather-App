@@ -1,9 +1,8 @@
 # 🌞 WEATHER-APP
-🌦 A responsive Weather App built with React, HTML, CSS, and JavaScript. Fetches real-time weather data from an API to display temperature, humidity, wind speed, and conditions for any city. Clean UI, fast performance, and supports location-based search.
 
-![ai](https://github.com/user-attachments/assets/24310b0f-100a-4f0f-af3e-4522c199532d)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=⛅+A+responsive+Weather+App+built+with+React,+HTML,+CSS,+and+JavaScript.;Fetches+real-time+weather+data+from+an+API.;Displays+temperature,+humidity,+wind+speed,+and+conditions.;Clean+UI,+fast+performance,+supports+location-based+search.&center=true&color=FFFFFF&duration=7000&multiline=false&width=1000)](https://github.com/Shouvik-9)
 
-
+<img width="482" height="582" alt="Image" src="https://github.com/user-attachments/assets/633b15a5-c2ad-45ce-84b6-e7179231f066" />
 
 # 🧩 PROBLEM STATEMENT
 
@@ -15,97 +14,62 @@ Design and develop a Weather Application that:
 
 # 🧠 TECHNOLOGIES USED
 
-- IBM Cloud Lite services  
-- Natural Language Processing (NLP)  
-- Retrieval-Augmented Generation (RAG)  
-- Large Language Models (LLM)  
-- IBM Granite model  
-
-# ☁ IBM CLOUD SERVICES USED
-
-- IBM Cloud Watsonx AI Studio  
-- IBM Cloud Watsonx AI Runtime  
-- IBM Cloud Object Storage  
-- IBM Agent Lab for building & deploying AI agents  
+- React.js – A JavaScript library for building interactive and reusable UI components.
+- CSS – For styling the application and creating visually appealing layouts. 
+- Vite – A fast and modern build tool for development and bundling the React app.
+- Node.js & npm – For managing project dependencies and running scripts. 
+- ESLint – Ensures code quality and enforces consistent coding standards.
+- HTML – Serves as the entry point for the React application.
+ 
 
 # 😮 WOW FACTORS
 
-The Interview Trainer Agent offers:  
-- Role-specific technical, behavioral, and HR questions  
-- Detailed model answers and improvement tips  
-- Real-time industry-specific information retrieval  
-- Vector index knowledge grounding for accurate responses  
-- User-friendly chat interface with a confidence-building tone  
+The Weather Application offers:  
+- Real-Time Weather Updates – Fetches live weather data for any location instantly.
+- Shows temperature, humidity, wind speed, and weather conditions using clear icons or emojis.
+- Intuitive Visuals – Uses weather emojis and icons for easy and quick understanding.
+- Responsive Design – Works seamlessly on desktops, tablets, and mobile devices.
+
 
 Unique features:
-- Personalized interview preparation using IBM Granite  
-- Structured answers with clear formatting and guidance  
-- Dynamic question updates based on latest trends  
-- Multi-industry and multi-role adaptability  
-- Seamless deployment and testing on IBM Cloud  
+- Smart Input Validation – Alerts users to enter a city name if the search is empty.
+- Error Handling – Notifies users when a city is not found or invalid input is entered.
+- Animated Weather Effects – Engaging animations for sun, rain, snow, etc., enhancing user experience.
 
 # 👥 END USERS
 
-- Job seekers (freshers and experienced)  
-- Career counselors and training institutes  
-- University placement cells  
-- Corporate HR teams  
+- Check real-time weather for any city instantly. 
+- Understand conditions easily with icons and emojis.
+- Receive alerts for if search is empty or invalid searches.
 
-# 🌐 API REFERENCE AFTER DEPLOYMENT
+# 🌐 BY DEFAULT INTERFACE
 
-<img width="1918" height="905" alt="Image" src="https://github.com/user-attachments/assets/24310b0f-100a-4f0f-af3e-4522c199532d" />
+<img width="286" height="482" alt="Image" src="https://github.com/user-attachments/assets/24310b0f-100a-4f0f-af3e-4522c199532d" />
 
-# 🚀 DEPLOYMENT & PREVIEW
+# 🌞🌥️ WEATHER FORECAST FOR DIFFERENT PLACES 🌩️❄️
 
-<img width="1918" height="905" alt="Image" src="https://github.com/user-attachments/assets/61aff927-f05f-483b-99cc-e987a92e06bc" />
+<img width="286" height="482" alt="Image" src="https://github.com/user-attachments/assets/54cd85f9-9b27-464e-8625-45012270cbed" />
+<img width="286" height="482" alt="Image" src="https://github.com/user-attachments/assets/6bbd10f0-3724-40c4-8bc3-0fa1a474018e" />
+<img width="286" height="482" alt="Image" src="https://github.com/user-attachments/assets/c1a342e4-6c46-488b-b8cd-80bdc830f961" />
 
-# 🎯 RESULTS
+# 🚨 ALERT FOR EMPTY SEARCH
 
-<img width="962" height="910" alt="Image" src="https://github.com/user-attachments/assets/436b6f2a-f9ed-4320-a8d0-f578bd2e666b" />
+<img width="286" height="482" alt="Image" src="https://github.com/user-attachments/assets/09fa0a02-a941-4e47-867a-a01078e944c1" />
+
+# 🚨 ALERT FOR INVALID SEARCH
+
+<img width="286" height="482" alt="Image" src="https://github.com/user-attachments/assets/1a53d0a6-6538-452f-8f32-82c33ffe9fee" />
 
 # 👉 CONCLUSION 
 
-- The Interview Trainer Agent streamlines interview preparation with personalized AI-driven training.  
-- By leveraging IBM watsonx.ai and RAG, it delivers real-time, role-specific, and supportive feedback to users.  
-- This project demonstrates practical AI applications in skill-building and career readiness.  
+- The Weather Forecast App provides users with real-time, accurate, and easy-to-understand weather information. 
+- By leveraging React.js, live weather APIs, and intuitive visuals, it delivers a responsive and interactive experience.  
+- This project demonstrates practical applications of web technologies in daily life, helping users plan and stay prepared for weather conditions.
 
 # <img width="27" height="25" alt="image" src="https://github.com/user-attachments/assets/b0953de5-baca-4c57-8b47-50821f26448e" /> GITHUB LINK
 
 https://github.com/Shouvik-9
 
-# 🪩 FUTURE SCOPE
-
-- Voice Assistant Integration for mock interviews  
-- Multilingual support for global users  
-- Integration with LinkedIn/job portals for tailored insights  
-- AI-driven candidate scoring and feedback analytics  
-- Real-time mock interview video analysis  
-
-# ✅ IBM CERTIFICATIONS
-
-## GETTING STARTED WITH AI CERTIFICATE  
-![Getting Started with Artificial Intelligence_page-0001](https://github.com/user-attachments/assets/f208ad91-b254-4ee9-8440-602b224a38a7)
-
-## JOURNEY TO CLOUD CERTIFICATE  
-![Journey to Cloud Envisioning Your Solution_page-0001](https://github.com/user-attachments/assets/3675a82a-a93c-43d7-9384-32c1766cb10e)
-
-## Lab: Retrieval Augmented Generation with LangChain 
-![Lab: Retrieval Augmented Generation with LangChain_page-0001](https://github.com/user-attachments/assets/0ef788bc-6f82-472d-82e7-4d840e788d97)
-
-# 📷 SCREENSHOTS
-
-
-# 🏞 RESOURCES
-<img width="1918" height="900" alt="Image" src="https://github.com/user-attachments/assets/77f627d1-8cff-4a11-b9f2-03000ada9b32" />
-
-# 🏞 TOOLS
-<img width="1918" height="905" alt="Image" src="https://github.com/user-attachments/assets/ec8bc409-28f3-41f1-8e57-6a1eb0487a18" />
-
-# 🏞 QUICK QUESTIONS
-<img width="1918" height="911" alt="Image" src="https://github.com/user-attachments/assets/304a9762-50b3-4a60-9767-57f5b3b5fc7e" />
-
-# 🏞 AGENT INSTRUCTIONS
-<img width="1918" height="902" alt="Image" src="https://github.com/user-attachments/assets/5efcf109-e6f7-4b17-9c47-bb81c4160cd1" />
 
 # <img width="30" height="25" alt="image" src="https://github.com/user-attachments/assets/f4d40696-5161-4447-acbb-3fc10668648d" /> LINKEDIN 
 
