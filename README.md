@@ -4,13 +4,22 @@
 
 <img width="482" height="582" alt="Image" src="https://github.com/user-attachments/assets/633b15a5-c2ad-45ce-84b6-e7179231f066" />
 
+---
+
+## 🚀 Live Demo
+👉 **[https://glowthreads-frontend.vercel.app/](https://weather-app-jvlw.vercel.app/)**
+
+---
+
 # 🧩 PROBLEM STATEMENT
 
 Design and develop a Weather Application that:
 - Provides real-time weather updates for current or searched locations 
 - Displays temperature, humidity, wind speed, and weather conditions with intuitive icons/emojis
 - Delivers a responsive and user-friendly interface across devices  
-- Helps users plan their activities effectively based on accurate weather information  
+- Helps users plan their activities effectively based on accurate weather information
+
+--- 
 
 # 🧠 TECHNOLOGIES USED
 
@@ -20,6 +29,8 @@ Design and develop a Weather Application that:
 - Node.js & npm – For managing project dependencies and running scripts. 
 - ESLint – Ensures code quality and enforces consistent coding standards.
 - HTML – Serves as the entry point for the React application.
+
+---
  
 
 # 😮 WOW FACTORS
@@ -31,16 +42,41 @@ The Weather Application offers:
 - Responsive Design – Works seamlessly on desktops, tablets, and mobile devices.
 
 
-Unique features:
+## Unique features:
 - Smart Input Validation – Alerts users to enter a city name if the search is empty.
 - Error Handling – Notifies users when a city is not found or invalid input is entered.
 - Animated Weather Effects – Engaging animations for sun, rain, snow, etc., enhancing user experience.
+
+---
 
 # 👥 END USERS
 
 - Check real-time weather for any city instantly. 
 - Understand conditions easily with icons and emojis.
 - Receive alerts for if search is empty or invalid searches.
+
+---
+
+## 🗂️ Project Structure
+
+```bash
+Directory structure:
+└── shouvik-9-weather-app/
+    ├── README.md
+    ├── eslint.config.js
+    ├── index.html
+    ├── package.json
+    ├── vite.config.js
+    └── src/
+        ├── App.jsx
+        ├── index.css
+        ├── main.jsx
+        └── components/
+            ├── Weather.css
+            └── Weather.jsx
+
+```
+---
 
 # 🌐 BY DEFAULT INTERFACE
 
@@ -61,19 +97,22 @@ Unique features:
 
 <img width="286" height="482" alt="Image" src="https://github.com/user-attachments/assets/1a53d0a6-6538-452f-8f32-82c33ffe9fee" />
 
+---
+
 # 👉 CONCLUSION 
 
 - The Weather Forecast App provides users with real-time, accurate, and easy-to-understand weather information. 
 - By leveraging React.js, live weather APIs, and intuitive visuals, it delivers a responsive and interactive experience.  
 - This project demonstrates practical applications of web technologies in daily life, helping users plan and stay prepared for weather conditions.
 
-# <img width="27" height="25" alt="image" src="https://github.com/user-attachments/assets/b0953de5-baca-4c57-8b47-50821f26448e" /> GITHUB LINK
+---
 
-https://github.com/Shouvik-9
+# 💬 Author:- **Shouvik Dutta**
 
+# <img width="27" height="25" alt="image" src="https://github.com/user-attachments/assets/b0953de5-baca-4c57-8b47-50821f26448e" /> [**GITHUB**](https://github.com/Shouvik-9)
 
-# <img width="30" height="25" alt="image" src="https://github.com/user-attachments/assets/f4d40696-5161-4447-acbb-3fc10668648d" /> LINKEDIN 
-
-Connect with me: https://www.linkedin.com/in/shouvik-dutta-990730267/
+# <img width="30" height="25" alt="image" src="https://github.com/user-attachments/assets/f4d40696-5161-4447-acbb-3fc10668648d" /> [**LINKEDIN**](https://www.linkedin.com/in/shouvik-dutta-990730267/)
 
 # 🙏 THANK YOU
+
+---
